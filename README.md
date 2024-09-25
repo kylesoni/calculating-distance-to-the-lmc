@@ -1,7 +1,7 @@
 # Measuring the Distance to the Large Magellanic Cloud using Cepheid Variables
 
 ## Summary
-In this project, I used astronomical data from the Gaia mission and OGLE light curves to calculate the distance to a nearby galaxy. This required extensive Python analysis and SQL queries into the databases. For the full report, read this [pdf](https://github.com/kylesoni/calculating-distance-to-the-lmc/blob/main/annotated-ASTRON_321_final_report.pdf). I also provided the abstract below and an example figure from the paper.
+In this project, I used astronomical data from the Gaia mission and OGLE light curves to calculate the distance to a nearby galaxy. This required extensive Python analysis and SQL queries into the databases. For the full report, read this [pdf]([https://github.com/kylesoni/calculating-distance-to-the-lmc/blob/main/annotated-ASTRON_321_final_report.pdf](https://nbviewer.org/github/kylesoni/calculating-distance-to-the-lmc/blob/main/annotated-ASTRON_321_final_report.pdf)). I also provided the abstract below and an example figure from the paper.
 
 ## Abstract
 The Large Magellanic Cloud (LMC) is a nearby satellite galaxy of the Milky Way. Measuring its distance from Earth is important for understanding the broader structure of the universe and how galaxies interact. Since the LMC contains many Cepheid variables, the fixed period-luminosity (P-L) relationship of Cepheids is useful in calculating this distance. 
